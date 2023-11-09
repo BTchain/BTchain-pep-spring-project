@@ -41,7 +41,7 @@ public class SocialMediaController {
     @Autowired
     AccountService accountService;
 
-    // ## 1: Our API should be able to process new User registrations.
+    // ## 1: Our API should be able to process new User registrations.    
 
     // As a user, I should be able to create a new Account on the endpoint POST
     // localhost:8080/register. The body will contain a representation of a JSON
